@@ -86,6 +86,9 @@ Las redes LSTM pertenecen a la familia de redes neuronales recurrentes y están 
 
 Para este proyecto, los datos históricos fueron organizados en **secuencias temporales**, permitiendo utilizar información de períodos anteriores para realizar las predicciones.
 
+---
+
+
 ### Arquitectura utilizada
 
 La configuración final del modelo LSTM fue:
@@ -139,6 +142,7 @@ MAE  : 10.5411
 RMSE : 17.8105
 R²   : 0.9493
 ```
+---
 
 # ⚙️ Tecnologías utilizadas
 ```
@@ -151,7 +155,7 @@ XGBoost
 Jupyter 
 Notebook
 ```
-
+---
 
 # 📂Estructura del proyecto
 ```
